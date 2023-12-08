@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T07:07:22.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0Sz-IRkG9aSXOr9bJU-C" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T07:08:38.572Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9BCY3JDqYKuNLbzMmZdx" version="22.1.7" type="github">
   <diagram name="페이지-1" id="kt-0oAe_-V_F-y4itiqc">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,13 +10,13 @@
         <mxCell id="ZdGZJfH25Wl6BX2V0NJI-2" value="Result" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZdGZJfH25Wl6BX2V0NJI-3" value="View" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZdGZJfH25Wl6BX2V0NJI-3" value="View&lt;br&gt;(Timekeeper)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZdGZJfH25Wl6BX2V0NJI-4" value="Player" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZdGZJfH25Wl6BX2V0NJI-4" value="Player&lt;br&gt;(Organizer)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZdGZJfH25Wl6BX2V0NJI-5" value="RaceControl" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZdGZJfH25Wl6BX2V0NJI-5" value="Official&lt;br&gt;(RaceControl)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZdGZJfH25Wl6BX2V0NJI-6" value="Game" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
