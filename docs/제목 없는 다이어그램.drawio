@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T07:08:38.572Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9BCY3JDqYKuNLbzMmZdx" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T07:22:34.623Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="_NROsZZOtJq_iXN4LPo9" version="22.1.7" type="github">
   <diagram name="페이지-1" id="kt-0oAe_-V_F-y4itiqc">
-    <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZdGZJfH25Wl6BX2V0NJI-1" value="Car" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZdGZJfH25Wl6BX2V0NJI-2" value="Result" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZdGZJfH25Wl6BX2V0NJI-3" value="View&lt;br&gt;(Timekeeper)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZdGZJfH25Wl6BX2V0NJI-4" value="Player&lt;br&gt;(Organizer)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="ZdGZJfH25Wl6BX2V0NJI-4" value="User&lt;br&gt;(Organizer)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZdGZJfH25Wl6BX2V0NJI-5" value="Official&lt;br&gt;(RaceControl)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZdGZJfH25Wl6BX2V0NJI-6" value="Game" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="270" width="120" height="60" as="geometry" />
@@ -28,11 +28,29 @@
             <mxPoint x="440" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZdGZJfH25Wl6BX2V0NJI-8" value="경기를 시작하라" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="190" width="90" height="30" as="geometry" />
+        <mxCell id="ZdGZJfH25Wl6BX2V0NJI-9" value="Rule" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZdGZJfH25Wl6BX2V0NJI-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="ZdGZJfH25Wl6BX2V0NJI-10" value="경기를 준비하라" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdGZJfH25Wl6BX2V0NJI-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZdGZJfH25Wl6BX2V0NJI-4" target="ZdGZJfH25Wl6BX2V0NJI-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="310" as="sourcePoint" />
+            <mxPoint x="460" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZdGZJfH25Wl6BX2V0NJI-13" value="참가자를 받아라" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="70" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdGZJfH25Wl6BX2V0NJI-14" value="&lt;div style=&quot;text-align: center;&quot;&gt;규칙을 정해라&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZdGZJfH25Wl6BX2V0NJI-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZdGZJfH25Wl6BX2V0NJI-4" target="ZdGZJfH25Wl6BX2V0NJI-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="140" as="sourcePoint" />
+            <mxPoint x="590" y="180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
